@@ -5,7 +5,7 @@
 - 📫 How to reach me: You can email me at anusha.ukumar14@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/anusha-udayakumar/).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I'm not coding, you’ll find me playing badminton or cheering for my favorite F1 team!
-[here](https://anushaudayakumar.netlify.app/)
+[Portfolio](https://anushaudayakumar.netlify.app/)
 <!---
 AnushaUKumar/AnushaUKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

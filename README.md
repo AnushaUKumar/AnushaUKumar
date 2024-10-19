@@ -5,7 +5,7 @@
 - 📫 How to reach me: You can email me at anusha.ukumar14@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/anusha-udayakumar/).
 - 🌐 Check out my portfolio: [Portfolio](https://anushaudayakumar.netlify.app/)  
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love playing volleyball and have a knack for winning local sports tournaments!
+- ⚡ Fun fact: I absolutely love a good adrenaline rush from spontaneous road trips and exploring new places!
 
 <!---
 AnushaUKumar/AnushaUKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

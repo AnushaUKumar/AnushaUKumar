@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnushaUKumar
+- 👋 Hi, I’m Anusha Udayakumar
 - 👀 I’m interested in Machine Learning, Data Science, AI, and developing impactful solutions through innovative technologies.
 - 🌱 I’m currently learning advanced AI/ML techniques, cloud computing, and data engineering tools.
 - 💞️ I’m looking to collaborate on data-driven projects, AI/ML applications, and open-source contributions that focus on real-world problems.

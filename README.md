@@ -1,11 +1,17 @@
-- 👋 Hi, I’m Anusha Udayakumar
-- 👀 I’m interested in Machine Learning, Data Science, AI, and developing impactful solutions through innovative technologies.
-- 🌱 I’m currently learning advanced AI/ML techniques, cloud computing, and data engineering tools.
-- 💞️ I’m looking to collaborate on data-driven projects, AI/ML applications, and open-source contributions that focus on real-world problems.
-- 📫 How to reach me: You can email me at anusha.ukumar14@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/anusha-udayakumar/).
-- 🌐 Check out my portfolio: [Portfolio](https://anushaudayakumar.netlify.app/)  
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I absolutely love a good adrenaline rush from spontaneous road trips and exploring new places!
+Hi, I’m **Anusha Udayakumar** — a data science professional passionate about transforming complex data into meaningful insights.
+
+With a strong foundation in machine learning, statistics, and data engineering, I enjoy solving real-world problems through analytical thinking and scalable solutions. I’m particularly driven by the "why" behind the data — understanding patterns, behaviors, and systems at their core.
+
+Currently exploring:
+- Applied machine learning and AI for impact
+- Scalable data pipelines and cloud platforms (AWS, GCP)
+- Statistical modeling and data storytelling
+
+I'm always open to collaborating on projects that bridge data, technology, and decision-making.
+
+Reach out: anusha.ukumar14@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/anusha-udayakumar/) | [Portfolio](https://anushaudayakumar.netlify.app/)
+
 
 <!---
 AnushaUKumar/AnushaUKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

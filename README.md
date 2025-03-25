@@ -4,7 +4,7 @@ I’m passionate about unraveling patterns in data, exploring the math and logic
 
 I love asking “why” — whether it's about user behavior, model outputs, or why that one feature improved performance by 20%.
 
-🧠 Currently diving deeper into:
+Currently diving deeper into:
 - Advanced AI/ML techniques and model interpretability
 - Scalable data engineering pipelines
 - Cloud ecosystems like AWS, GCP, and Azure
